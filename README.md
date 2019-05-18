@@ -22,6 +22,13 @@ Install all other missing packages on your machine and then run:
 `make run`
 The swagger will be accessible at http://127.0.0.1:5000/api/1.0/
 
+## Testing
+
+To run tests:
+`make tests`
+But the tests are not updated after creating the base so they will fail.
+You can write them if you need.
+
 ## About
 
 The base is created from tutorial here:
