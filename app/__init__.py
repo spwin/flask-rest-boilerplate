@@ -20,7 +20,7 @@ authorizations = {
 }
 
 api = Api(blueprint,
-          title='MusicChat API',
+          title='Flask API',
           version=version,
           description='Public api endpoints.',
           authorizations=authorizations
